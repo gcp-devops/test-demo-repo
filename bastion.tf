@@ -67,3 +67,7 @@ resource "aws_autoscaling_group" "bastion_asg" {
     propagate_at_launch = true
   }
 }
+
+
+## Added new code
+## Please review and merge
